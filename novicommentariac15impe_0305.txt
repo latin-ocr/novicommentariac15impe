@@ -1,0 +1,38 @@
+FLVIDORVM LINEARI. 239
+
+initiali pro singulis elementis illae ambae quartitates
+Υ et P datos valores obtineant. Quoifi enim
+fluidum nullius compreffionis sit capax, statim atque
+in vnica tubi sectione celeritas datur, simul in
+omnibus reliquisdeterminatur, tum vero etiam per
+preffionem in vnico tubi loco pressiones iu omnibus
+reliquis determinantur. Vnde satis intelligitur
+etiamsi densitas fuerit· variabilis 'quia semper cum
+celeritate et preffione certo molo cohaeret ‚ tamen
+non in singulis locis pro statu initiali celeritatem et.
+pressionem pro lubitu fingi posse.
+
+Problema 46.
+
+24. Si tubi direc'irix IZz K fuerit linea cur· Tab.11.
+va quaecunque non in eodem plano fita ‚ eiusque Fig. 38.
+amplitudo vtcunque variabilis, definire motum fluidi
+in huiusmodi tubo secundum methodum priorem su-
+pra expositam.
+
+Solutio
+
+Hac methodo vtentes statim consideramus flui-
+di statum ad tempus quodcunque indefinitum Ξ t a
+
+certo initio elapsum. Definita igitur directrice per
+ternas coordinatas Ox z x ‚ x y :y ‚ y z Ξ z ‚
+quae ita a se inuicem pendent, vt pro vuica va-
+riabili haberi queant , statuamus praeterea arcum di·
+rec‘tricis Izzs, et in z sit tubi amplitudo zvzoe,
+quae etiam vt functio ipsius s est spectanda.
+In‘ hoc iam loco z ad tempus z: t ‚ cou-
+templamur fluidi particulam , cuius densitas fit z q„
+
+⁷ prcffio
+

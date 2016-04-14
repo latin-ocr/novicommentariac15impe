@@ -1,0 +1,36 @@
+FLVIDORVM LINEARI. 237
+
+posteriorem supra traditam respedw ad statum initia-
+lem habito , motum fluidi cuiuscunque in hoc tubo
+definire.
+
+SolutiO.
+
+Iu statu initiali consideremus fluidi particulam·
+Y V Y‘ V¹ et pro ‘punc’to Y positis coordinatis
+OX:X‚ XY:Y‚ sit ipse arcus 'th-:S et
+in Y amplitudo tubi YV-,zst quae siue vt funtstiO
+ipsius X spedietur siue ipslus S perinde est. Tum
+vero fit densitas in Y: Q prestio ΞΡ, et celeritas
+secundum tubi diree'tionem Y Y¹ z Υ ‚ fi iam ca-
+piatur tubi elementum Y Y1:2dS ‚ erit particulae
+nostrae volumen z ΩΔΞ et preffio Ξ Qssds.
+His quae ad statum initialem pertinent pofitis tem-
+pore : t nostra particula transferatur in γυ γ’ v‘, et
+pro punito y vocetur O x z x xy :y et arcus
+direstricis Iy:s‚ tum vero densitas :q ‚ et
+preffio :Pa quae quantitates omnes sunt funtstiones
+duarum varibilium S et t, eaeque tales vt posito
+tempore tzo fiat x:X,y::Y, szs, qz-Q
+et sz amplitudo vero tubi in y sit yvzm
+funstioni ipfius s. Quod fi iam ratiocinium instituatur
+vt in probl. 43 ‚ quoniam tubi curuatura nihil
+turbat in motu fluidi , loco quantitatis X ibi tubi
+longitudinem denotantis hic litteram S scribi oportet.
+
+Ex viribus autem sollicitantibus fi eae vires accelera- Α
+
+trice-¹5, quae secundum coordinatarum Ox etxy directio-
+nes agunt sintqb et Q, ea quae in y secundum tubi di-
+G g 3 restio-
+

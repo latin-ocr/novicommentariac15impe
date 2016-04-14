@@ -1,0 +1,53 @@
+τοῦ PROBLEMA ALGEBR'AICVM.
+
+ex hoc problemate redundantem ‚ quae sane exigua
+ests, quam egregia ista calculi subsidia, quae ad eius
+solutionem requiruntur.⁴ - ·
+
+2.' Sit m—4- 1 numerus terminorum continue
+proportionalium ‚ dicatur vero primus progreffionis
+terminus·¹ xm et Vltimus-31⁷⁶, quam ob rem liquet ,
+totam progressionem sequenti ratione exponi poffe:
+
+xm -i— *vm-‘y -i-xm—²}‘²—i- . . . . -i— xffym·²-÷-xy⁷⁷¹-¹-†-y⁷²²‘:a
+ex quo itaque deducitur: Δ
+
+x2m-i-x2m·²y²÷x²⁷¹²-*y⁴÷ . .. . ÷x⁴y² ⁷²² - ⁴÷x²y²⁷⁷²·²÷y²”¹::b,
+
+multiplicata igitur priori harum aequationum per
+
+x—y et posteriori per xx—yy, eruitur inde a(x-y)
+:xm⁴‘¹ ---γ”ῑ·’“ι nec non b(xx-yy):x2²”²·¹· -y ’ΜΞ-Η,
+vnde diuideido b(xx-yy) per a(x— y), fiet⁶-‘-³⁶·*·y’
+
+a
+:xm*¹-i-‚}‘⁷'²’''‘‚ ex quo deinceps colligitur
+
+πασῃ-Η :⁶‘xgffl-'4-a (x -y) et 2y⁷²¹÷¹ :bb‘xff-y)
+
+-4-a(y—-x) ‚ quod fi igitur ponantur a -1-3'- :2d
+et a—}:2e, erit xm÷= :dx—ey et ymff¹
+
+ 
+
+ 
+
+ 
+
+m
+:dy-ex, vn yzxfflg-:U et x-Jffl-JD Sit
+ι xz xm zm
+lam d-xmz-z, vnde y: -ἷ- et ym: em , erit
+
+ 
+
+Proinde ΒΧΓ-ΙΨ ἅ-Ιπῑᾊῒῖξμρεχή ἰ) ideoque e⁷'²·¹··²vv
+
+ 
+
+:z(de⁷¹²-x⁷'²z⁷'² )‚ vel in locum ipsius xm substituenf
+do d-z‚ fiet: zm÷²—dz(z⁷⁷²-e⁷'¹)—e⁷'¹-*-² z 0.
+Haec vero aequatio , etiam hac ratione inueniri?
+
+potest:
+

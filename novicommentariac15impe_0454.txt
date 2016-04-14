@@ -1,0 +1,40 @@
+388 DE STATV AEQVILIBRII ET MOTV
+
+quare hinc primo tangenti-ales secundum m T agen*
+tes, seorsim inter se debent aequari , vnde nascitur
+haec aequatio:
+
+T÷dT÷Vd<l³÷dV· dspzT-f-pds,
+ex qua concluditur
+
+dT-i-vacpzpds.
+
+Secundo vires normales quatenus in eandem partem
+tendunt, seorsim debent effe aequales , vnde fit
+
+—(T÷dT)d<1>-i-dV:V-÷qu hincque
+d V — T ΛΦ z q d s.
+
+Tertio vero insuper requiritur ‚ vt etiam momenta
+virium normalium , iuter se conueniant, sumtis igi-
+tur momentis respectu puncti m, prodit haec ae·-
+quatio:
+
+- (T4dT) d Φ. 0÷(V÷d V) (v÷dv) :V(v†ds)†qu. 0
+vnde concluditur
+
+vdV-i-Vdvzvds‚ siue d. szvds
+
+atque his tribus aequationibus omnia continentur,
+quae ad problematis nostri solutionem pertinent.
+
+x11. Hoc iam problemate resoluto, facile
+omnes casus quomodocunque vires sollicitantes fue-
+rint comparatae, dummodo in idem planum cadant
+-expedite euolui poterunt, id quod pro duobus casi-
+bus principalibus quorum prior continet fila perfecte
+flexibilia, alter vero aequabiliter elastica, distincte
+
+explicemus
+Casus ,
+

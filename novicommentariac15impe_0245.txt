@@ -1,0 +1,36 @@
+FORMVL. DIFFERENTIALIVM. 179
+
+aequationes inter litteras N, P, Ρκ etc. et 92, ᾖ), ᾤ’
+in subsidium vocata regula §. 18. allata, inuestigan-
+dae sunt, Primo scilicet habita quantitate v pro
+constante ‚ quaerantur criteria integrabhtans pro fiir·
+mula duplicata vaxdy, tum vero iterum posita.
+z conflante similia criteria huius formulae inuesti-
+gentur3 dein Vtramque classem horum criteriorum
+colligeadO, de integrabilitate formulae V dxdy‚ in
+qua z et v ‚ simul vt variabiles trae‘tantur, iudi-
+care licebit. Huius vero afferti vlteriorem demon·
+strationem eo minus e re erit hocloco adferre,
+quod ex iis quae supra ξ. 15 et seqq. pro fimjli
+catu formulae differenti-aiis V dx docuimus ‚ pateat
+quomodo ea adornari debeat.
+
+36. ln genere igitur , fi in formula differen-
+tiali duplicata V dmm, V praeter quantitates a ct
+y, quotcunque alias variabiles z, u, v etc. cum {pia-
+rum differenti-‘ilibus cuiuscunque ordinis inuoluat,
+haec regula pro integrabilitate huius formulae exa-
+minanda valebit: “Quaerantur valores formulae V dx dy
+„uui prodeunt ‚ s1 ιιι quantitate V praeter x et y ,
+„semper vna reliquarum vt z variabilis statuitur, cae-
+„teris u, v etc. pro constantibus spectatis ‚ et pro·
+„deant hinc formulae V‘dxdy; V‘sdxdy3 Vsssdxdy,
+„tum inuestigentur criteria integrabilitatis pro hisce
+„formulis, atque necessum erit, vt omnibus his
+„criteriis satisfiat, quo formula dedy pofitis
+
+„omnibus z, u, v etc. simul variabilibus fiat inte-
+„ grabilis.‚,
+
+Z 2 37.
+

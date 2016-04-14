@@ -1,0 +1,37 @@
+PROBLE MA ALGEBRAICVM. 77 .
+
+monstratio adornari queat, nisi solutio problematis
+suerii explorata.
+
+ΙΙΙ. Neque vero hoc problema pro otiosa
+speculatione seu mero lusu 'ingenii est habendum ,
+sed potius inv doctrina de superficierum natura est,
+maximi momenti. Cum enim natura superficiei
+pei· aequationem intei'· ternas coordinatas tribus axi·
+bu's inter se normalibus parallelas exprimi soleat ,
+talis aequatio mutandis axibus in infinitum variari
+potest, etiamsi axium communis interseffio in eo·
+dem punsto statuatur. Quoniam igitur eadem su-
+perficies infinitis aequationibus diuersis inter ternas
+coordinatas definiri potest, plurimum interest earum
+charasterem communem noffe ‚ qui in eo consistit ,'
+vt fi coordinatae temis quibusdam axibus datis pa-
+raIleiae' fint‘ x3 y, κζ’ quae autem aliis quibuscum·
+que axibus constituuntur· parallelae ,.. fuerint· X, Y, Z
+eorum· relatio> mutua semper: huiusmodi formulis
+contineatur τ’
+
+XzAx÷By÷ssCz3 Ysz÷Ey4Fz3 thG'x—l—Hy—i—l‘z
+
+‘qui' nouem coefficientes ita comparati fint ¹necesse
+est, vt inde fiat: xx-i-YY-i-Zzza·x÷yy÷zz,
+quandoquidem his formulis quadratum interualli quo
+superficiei· punstum ab initio coordinatarum distat ‚
+exprimitur. Quod fieri nequit 7 nisi hae ‘sex aequa-
+tiones habeant locum:
+
+AA÷DD÷GG11 , BB÷EE-1-HH:1,- CC÷FF÷11:1>·
+s gissff—DEJsGHzo ‚ AC÷DF÷G1:0, BC÷EF÷1HIzo
+
+K 3 qu ae
+

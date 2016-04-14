@@ -1,0 +1,37 @@
+594 LON.G1T. GEOGRAPHICAE EX ECLIPSI
+
+enim definitur quadrante c'irculi maximi [Ἰ Ζ N¹
+per zemth apparens Z dud‘to, ambobus tamen pun·
+ftis dum Π est in meridiano , plane coincidentibua
+Situm vero istius pumsti N calculo iam facile definire
+poterimuS. In triangulo enim Sphaerico Π Pz ob
+data latera ΠΡ3 et Pz nec non angulum interiacen-
+tem an: 180-MT390—{3 «cM, dabsstur
+per cognitas regulas Trigonometriae Sphaericae, tam
+latus Π z quam angulus P Π z :2 N ΕΞ , vnde No-
+nagefimi non solum longitudO, ssed etiam distantia
+a zenith vero innotescet.
+
+7. Priusquam ad inuestigationem formularum
+pro parallaxibus Longitudinis et Latitudinis Lunae.
+progrediamur , opus est ‚ vt expreffio pto parali-axi.
+
+Tab.XXX1 distantiae ipfius a zenith vero inuestigetur. Sit igitur
+Fig. 5· L locus obseruationiQ S locus Lunae vel alius cuius·
+cunque astri , fiue in ipso meridiano seu extra cun-
+dem ‚ duecis lineis CLz, CS et L S , patet distan-
+tiam astri a zenith vero z.- e. centro telluris C visam
+mensurari angulo Les, parallaxin autem huius
+
+{istantiae per angufflm LSC exprimi. Quum iam
+1t
+
+z.LS:-·LCS÷LSC, erit fin.zLS:fin LCScocLSC
+-1—cos.LCSs1n.LSC ‚¹
+quoniam autem habeatur
+
+fin.zLS:s1n.LSC: 1 C‘S :CL erit
+3.fin.LSC:fin.LCS.cos.LSC÷c0fiLCS.fin.Lsc
+
+CX
+

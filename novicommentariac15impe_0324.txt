@@ -1,0 +1,41 @@
+258 DE MOTV
+
+Problema 50.
+
+Tab. 111. 45. Si aqua in tubo aequaliter amplo ita mo‘
+
+Fig— 45· veatur, vt in altero termino effluat , in altero ve-
+ro continuo succedente prematur a vi quacunque,
+hunc motum effluxus et pressionem in singulis ele·
+mentis aquae determinare.
+
+Solutia
+
+Quamcunque tubus habuerit figuram ‚ is tan-
+quam in directum extensus AaOo consideretur-3
+cui adiungatur scala altitudinum α ω, cuius appli-
+catae z π exhibent cuiusque tubi puncti z altitudi-
+nem super dato plano horizontali. Iam elapso tem·
+pore t aqua effluat per tubi orificium Oo celerita-
+te :3 ε, qua fimul tota fluidi massa, quae adhuc,
+est in tubo succedat. Occupet autem iam aqua tubi
+partem Mo et in Mm vrgeatur vi exprimenda
+per altitudinem z Μ. In O autem vbi aqua ef-
+fluit in a‘e'rem alia preffio locum habere nequit, nist
+atmosphaerae, quae aequitialens statuatur columnae
+aqueae, altitudinis z k. Pertigerit initio aqua vs-
+que nd A et ponatur longitudo A0:a‚ atque
+nunc fit A Mzm, {unctio temporIS t, ex qua de·-
+
+7η
+
+finitur celeritas 8 z εῖτ. Iam quoduis aquae ele-
+
+mentum in z consideretur, cuius altitudo supra pla-
+num horizontale fit z π :z et pofita denfitate
+¹aquae z 1, et prefflone in z:p‚ tum vero distan-
+tia A z:s‚ ex probl. 48. hanc nanciscimur aequa-
+tionem
+
+231³
+

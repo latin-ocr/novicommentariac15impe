@@ -1,0 +1,48 @@
+148 DE CRITERIIS INTEGRABIL.
+d v‘¹:M¹¹dx÷N¹¹dy÷P¹¹dp . . . . -k-Suds
+
+. nec non
+
+d V¹zM¹dx÷N¹dy÷P1dp. . . ς 4- τ’ᾱε
+et mueniemus ᾖ
+Μ’·ΞῙΜᾱκς N¹zsNdx3 P¹::s(P--N‘)dx;
+, Q:J(Q— P¹)dx etc.
+M¹¹zsM¹dx3 N¹¹zsN1dx; ΡΝ :s(P¹ ·- ΝΗ) dx;
+· Q¹¹zs(Q¹-P¹¹)dx ete.
+vnde fiet
+
+M¹¹zf<2> de3 , N1¹zs<2>Ndx5 P⁴¹:s<2> de42s<³>Ndxfl
+Q¹:s(²)de-2s(³’de-†—3s(*’Ndx etc. Δ
+Quum igitur prointegrabilitate formulae dxsdxsde
+requiratur, vt s1t
+
+ΝΗ- Ήψᾱάᾱλᾳί.... ῑ-Ι-Ξωχῖ-ἕ-ΙΖ 0 >
+substitutis in hac aequatione pro N¹¹‚ Pu, Qu etc.
+valoribus ipsarum ‚ orietur ista aequatio:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ι. 2 dx‘’'·—-dx‘m··
+a qua aequatione subtrahatur sequens:
+
+) v dR alm-⁴8>
+-QJ12’Ndx-sde÷Q-J;· · · · ’ὶ- -ῖῑῑ
+
+,,,,
+
+ 
+
+,1. 2.
+
+ 
+

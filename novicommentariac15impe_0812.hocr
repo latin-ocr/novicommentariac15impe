@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novicommentariac15impe_0812.png"; bbox 0 0 2316 2439; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1267 60 2061 97">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1267 60 2061 97">
+     <span class='ocr_line' id='line_1_1' title="bbox 1267 60 2061 97; baseline -0.01 -6"><span class='ocrx_word' id='word_1_1' title='bbox 1267 77 1282 90; x_wconf 76' lang='grc' dir='ltr'><em>υ</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1301 76 1313 91; x_wconf 85' lang='grc'><em>’.</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1330 66 1411 90; x_wconf 66' lang='lat' dir='ltr'><em>(bm.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1423 63 1520 89; x_wconf 52' lang='lat' dir='ltr'><em>dfrad.</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1542 65 1591 89; x_wconf 52' lang='lat' dir='ltr'><em>„fit</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1605 64 1713 97; x_wconf 60' lang='lat' dir='ltr'><em>Hbvy‘),</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1728 63 1793 86; x_wconf 73' lang='lat' dir='ltr'><em>Ibm</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1816 61 1866 85; x_wconf 51' lang='lat' dir='ltr'><em>AYV</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1884 60 1947 85; x_wconf 70' lang='grc' dir='ltr'><em>ἵΐῑίι4</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1964 61 2061 97; x_wconf 62' lang='lat' dir='ltr'><em>JsXX.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 337 65 1851 2226">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 337 65 1851 2226">
+     <span class='ocr_line' id='line_1_2' title="bbox 337 65 1851 2226; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 337 65 1851 2226; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

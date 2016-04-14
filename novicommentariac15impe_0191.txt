@@ -1,0 +1,50 @@
+PROPLEMA ALGEERAICVM. 1 25
+
+vendas , quemadmodum fi quaerantur termini pro-
+gressionis geometricae, quorum numerus est impar,
+data summa horum terminorum alternorum. Erit
+enim per conditionem problematis:
+
+xm—4— xm“²y² ÷.rm*⁴y›⁴ 4- . . .. -ι- x²y⁷⁷¹-² -Js—ym: d atque
+xm-Us-i—xm-³y³—³s-‚ . .. ÷x⁸jsm‘³÷.ry⁷⁷²-¹ :e ,
+
+addantur iarn inuicem hae aequationes eritque:
+
+x⁷⁷¹ ÷xm*¹y-÷- x⁷¹²···²y2 ,μνη-’ΞΥ -4- ..... -1- x²ym-²
+· -ι-π]”’““ -†·y⁷²²:d÷e
+x⁷⁷²÷¹-y⁷⁷²'*‘¹ . .
+seu x ”IT- z: d ψ e, fi vero a priori subtraha-
+tur posterior fit z
+
+xm-.- xm—17÷ χτη--ιγ2 ...- xm-—y34 . . ⁰ ¹ ὓὶ-χἊΙπι-εεω, xym-t
+ι ι
+
+ 
+
+ 
+
+ 
+
+multiplicentur nouae hae aequationes ‚ 'quo {asto
+xzm-i-z — yzm-1-2 ⁸
+--::dd—ee vel ettam:
+
+ 
+
+ 
+
+prodit 2 2
+x - y
+
+x²m÷x²⁷⁷¹”²y²÷x²m‘“⁴y⁴·{-‘...0÷x⁸ym-²†y²m:dd‘eev
+
+adeoque quaestionis propositae solutio , iam reducitur
+ad inuentionem terminorum progressionis geometricae s
+ex datis eorum summa et summa quadratorum. Hoc
+vero ipsum et sequenti ratione ostendi potest, ducatur
+
+e in ἒ, eritque
+
+‘'y-³⁰: xm-k- xm’²y²÷x”²-⁴y⁴÷· · · · ÷ sym-²,
+Q 3 vnde
+

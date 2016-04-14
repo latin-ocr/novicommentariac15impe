@@ -1,0 +1,35 @@
+PORMV'L. DIFFERENTIAUVM. 19³
+
+dv: 1dx÷Ndv÷Pdp ÷Q¹dq¹÷R¹Ver
+÷Ldy —t-P‘dff-i-Q‘dqu ·
+-p-Mdz ÷pildpu÷deq1v
+
+adeoque fi in diffetentiali dV praeter hos terminos
+adhuc reperiretur ex. gr. Rvdrv‚ certo statuere licet
+formulam de dydz nequaquam fore integrabilem.
+
+46. Si proposita fuerit formula differentialis
+triplicata V dx dy dz in qua V praeter tres varia-
+biles x, y et z, quarum differentialia iuppouuntur
+constantia ‚ adhuc binas alias v et u, quae vt fun-
+&imus praecedentium trastari poterunt, inuoluat3
+criteria integrabilitatis pro eiusmodi formula sequenti
+ntodo inuestiganda eruut. Primum in funcstione V
+
+’ statuatur u constans et quaerantur conditiones sub
+
+quibus formula V dxdy dz 'hac faita iuppositione
+fiat integrabilis ‚ deinde statuatur ‘v constans et dis-
+quiratur quinam ea constituta hypothesi fint chara-
+‹Pteres integrabilitatis formulae V dx dy d Ζ , haec
+criteriass collectim iumta , characterem integrabilitatis
+formulae propositae absoluent. Similis praeieribenda
+erit regula ‚ fi quantitas V adhuc plures variabiles
+v, u, w etc. cum earum differenti-ilibus quibuscun-
+que inuolueret‚ nam disquirendum est ‚ an formula
+V dxdydz omni casu integrationem admittat, quo
+vnica harum v, u, w etc. pro variabili habetur, re-
+liquis pro conflantibus spectatis,
+
+To m.XV.Nou.Commss B b y > 48«
+

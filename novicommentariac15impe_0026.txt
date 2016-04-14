@@ -1,0 +1,35 @@
+20 ”2013 ( 0 ) &egf-
+
+sentis antequam Tlieorema Eulerianum fibi pro-
+poneret demonsti·andum‚ inuenisset eius demonstratio-
+nem multum iubleuari ‚ fi pr=mum huius Theorematis
+conuersum demonstraretur , allata igitur Theorematis
+conuerfi demonstratione, demonstrationem Theorema-
+tis directi ipfi subiunxit. Qua vero ratione in his
+demonstrationibus adornandis versatus fit, et quae ex
+iisdem deduxit comest-aria, id ex ipia differtat'one
+melius addisci potest, quam heic recensione exponi.
+Inuento itaque fic criterio integrabilitatis pro formula.
+de, vbi V fundtionem quandam variabiles x et y, nec
+non huius differentialia quaecunque inuoluentem in«
+digitat3 progreditur Cl. Audtor ad formulas difie-
+rentiales complicatiores , quae alias formulas integra-
+les iam inuoluunt, vti dx sV dx, dxsd st dx etc.
+nec non fV dxsV¹ dx ‚ ostendit autem quomodo
+pro fingulis huiusmodi formulis criteria integrabiiitatis
+affignari queant. Porro quoniam hucusque suppositum
+fuit, quantitatem V non continere nisi binas quantitates
+» x,y cum differentialibus quibuscunque ipfiusy, necessum
+omnino erat disquirere ‚ qualia oriantur criteria in-
+tegrabilitatis, fi quantitas V inuolueret non soium
+quascunque quantitates x ‚ γ , z ‚ v etc. , (ed etiam
+differentialia quaecunque ipsorum y, z, v, pofito ni·
+mirum dx constante. Regula autem generalis quae
+pro his criteriis affignandis valet, ita exprimi poterit:
+„in formula V dx quaeuis variabilium y, z, v etc.
+„seorsim pro variabili spedtetur ‚ reliquis pro con-
+„stantibus habiti5‚ et quaerantur quaenam criteria in-
+
+„tegrabilitatis , pro singulis exprcffionibus formxnslje
+υ x
+

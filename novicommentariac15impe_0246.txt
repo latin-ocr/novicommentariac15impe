@@ -1,0 +1,35 @@
+180 - DE CRITERIIS INTEGRABIL.'
+
+37. Consideremus iam formulas integrales 'tri-
+plicatas ‚ &quae sub hac forma repraelentari poffunt
+sssV dxclydz. Hic enim posita V functione
+trium quantitatum x‚y, z nec non aliarum quarum-
+cunque variabilium ‚ prima integratio instituatur con—
+fiderata x vt variabili, y vcro et z pro constanti*
+bus habitis, deinde secunda integratione quaeratur
+integrale formulae dys V d κς politis x et z con· ‘
+stantibus et denique tertia integratione ‚ inuestigetm
+integrale formulae dzsdysV dx, considerando x
+et y vt constanteS. 'Quaeritur ergo quomodo funetio
+V comparata effe debeat ‚ vt huiusmodi formula
+triplicata sssdedydz verum constituat integra-
+le? In genere autem patet integrale hinc oriundum
+ita effe debere comparatum ‚ vt idem prodeat, quo-
+cunque ordine, hae tres quantitates x, y, z 'variabis
+les statuantur, adeo vt fit.
+
+sdzsdysv dx„- —esdzsdxsvdy :sdysdzsvdxg
+:sdysdxs v dz :sdxsdysv etz :sdxs dzsv dy.
+
+38. Exkhuiusmodi formularum integralium'
+triplicatarum numero, confideremus prImo casum‘
+fimplicissimum quo V praeter x, y et z, quarum
+differentialia constantia supponuntur , inuoluat aliam
+quandam variabilem v nec non quaecunque ipfius'
+differentialia. Vt vero species huiusmodi differentia?
+lium e calculo tollatur, et quum triplex heic fit'
+instituenda integratio, prout ‘tres quantitates x, y, z
+
+pro variabilibus habentur , liquet quantitatem vcon-‘
+fide?
+

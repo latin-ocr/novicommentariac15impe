@@ -1,0 +1,39 @@
+228 DE MOTV
+
+Problenui 4}
+
+11. Praecedens problema, quo motus fluidi
+in tubo rec'tilineo quaeritur , per methodum poste-
+riorem respe&u ad statum initialem habito resoluere.
+
+Solutio
+
+Tab. 11. Fluidi particula , cuius motum inuestigamu5‚
+
+Fig· 35· initio t :0 occupauerit tubi elementum XVX¹V¹,
+pro quo ponamus Ο Χ :z X, X X¹ :z d X, ampli-v
+tudinem tubi in X ΞΩ, vt volumen particulae*
+fit z Ω dX. Sit porro densitas in XZQ, pres..
+fio z P et celeritas secundum directionem XA z U
+quae omnibus particulae punctis est communis; vn-
+de eius maffa :Qstdx Iam elapso tempore t
+eadem particula reperiatur in xvx¹v¹ pro qua po*
+namus Oxzsr, amplitudinem xv: ω. tum vero
+densitatem in x:q‚ preffionem :p et celeritatem
+secundum xA:u‚ eruntque litterae x, q, p, u fun-
+stiones binarum variabilium X et t, at amplitudo ω
+est certa funetio ipsius x ex tubi figura definienda.
+Cum iam see'tio X¹ V¹ eodem tempore t peruenerit
+in a‘v‘ erit x x! :dess-jgh vnde particulae xvx'vf
+volumen erit de(‘}-³}c) et maffa :q ω άΧᾷῖἒὶ-ζῃ
+quae cum semper maneat eadem habebimus pm
+motus determinaoione hanc primam aequationem:
+
+q ω (ἕ-ξί) z Qss·
+Cum deinde celeritas in x fit ιιῑζῘ-ξ), erit parti-¹
+
+culae xvx‘v‘ acceleratio :z (da‘ssff). Ex viribus sol-
+licitam
+
+ 
+

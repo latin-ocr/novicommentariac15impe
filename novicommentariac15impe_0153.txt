@@ -1,0 +1,42 @@
+PROB LEMA ALGEBRAICVM. 87
+
+XVII. Hinc autem dubium nascipoffet , quod
+cum qualibet transformatione nouus angulus intro·
+ducatur, austo transformationum nurnero nostri pro-
+v blematis solutio multo adhuc generalior obtineri
+posset. Verum tamen qui huius rei periculum facere
+voluvrit, mox animaduertet, nouum angulum intro-
+ductum cum aliquo praecedentium in vnum coalescere
+ita vt quotcunquae transformationes suscipiantur , nu·
+merus angulorum vere arbitrariorum non vltra terna-
+rium augeri queat. Adiiciamus enim insuper hanc
+transformationem ponendo:
+
+X¹:X‚· Y¹:Ycos.a-Zs1n.2; et Z‘:Yfin.>„÷ Zcofiz.
+
+fietque ,
+
+X‘zxffin. ζ ίῑι].ηεοΐ.θ-4- cos. Zfin. 0)÷y( fini fimo
+-εοίζςοίῖηεοῖ, Θ )-zcos. η cosso
+
+Y¹:x(fin.gcos.ncos.>t-fin. &flammeum—teos. Kcoissfin. λ)
+
+——y(cos.Zc0s.ncofi>s-cos.gsina} fimo finjx- finlfcos. ofin. λ)
+-1—z( ίὶη.ηεοβλ-1-εοῖ.ηῌη.θίίη.λ)
+
+Z¹:x(s1n.2,‘cos.nfin λ-Ηὶηζ [ἰηηίὶηθεοίλ- εοίζ cosso εοίζλ)
+
+-y(c0s. {cos-‘n sinz-remla n η sm. &cosm-pfl n ‚ZcossecosJkJ
+÷z( sm nstrum-cos. usin. θεοί λ)
+
+vbi etfi quatuor anguli adsunt ζ, η, Θ et λ·, tamen
+inde non plures tribus coefficientes pro lubitu assignare
+licet: quod quidem non facile perspicitur ‚ et non·-
+nisi per plures ambages ostendi poffe. videtur: cum
+tamen ex tei natura res fit prorsus manifesta.
+
+XVUI, Etiamsi maxime arduum videatur
+
+has quatuor quantitates indeterminatas ad tres re-
+vocare
+

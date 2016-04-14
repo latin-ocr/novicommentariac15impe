@@ -1,0 +1,45 @@
+Tab, Ι.
+Fig. ι.
+
+2
+196· DE (ἓν-[ΝΑ RECTIFICABILI
+
+tur phaenomena ‚ quae nullo modo ad certas ratio-3
+nes reuocare licet , cuiusmodi sunt haec duo Theo-
+remata, iam pridem a me obseruata ‚ quae tamen
+neutiquam omni rigore demonstrare valet), alterum:
+praeter circulum nulla datur linea algehraica cuius por·
+tioni cuicunque ‚ arcus circuli aequalis affignari peffet ,
+alterum: nulla plane datur curua algebraica cuius ar-
+cus quicunque per logarithmum exprimi poffit. Hic
+scilicet non de eiusmodi curuis loquor quarum re-
+stificatio vel ab arcubus circularibus vel a logarith·
+mis pendet, cuiusmodi fine dubio infinita datur mul-
+titudo ‚ sed de talibus quarum arcus quicunque prae-
+cise aequalis fit vel arcui cuidam circulari vel cui-
+
+piam logarithmo , nulla scilicet vel addita vel sub·
+trae'ta quantitate geometrica.
+
+II. Lineae igitur in superficie sphaerica quae-
+fitae, fit pune'tum quodcunque Ζ, determinandum
+
+ternis coordinatis C X τ- x ‚ X Y :y et Y Z Ξ z
+vbi ss puntstum C in centro sphaerae capiatur, radius- ·. .
+que ponatur :3 1, habebitur haec aequatio:
+³ xx÷y'y÷zz:1, ξ
+deinde quia elementum huius lineae Z z hac formu-
+la exprimitur‘:
+
+V (dx² ÷dy² -ἢ- dz²)
+necefl'e est vt eius integrale euadat quantitas alge-4
+braica.
+
+111. Quum ex priore aequatione s1t ε
+zsz (1 -xx-yy) erit dzz- ³⁶⁴¹³⁰”Q¹-³'-
+
+v'(1—-xx--ny
+ex
+
+ 
+
